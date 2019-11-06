@@ -6,4 +6,6 @@ def reverse_each_word(string)
     i += 1
   end
   new = update.join(" ")
+  
+  
 end
